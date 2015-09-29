@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十住經
+#+DATE: 2015-09-28 22:55:54.721629
+#+PROPERTY: JUAN 0
