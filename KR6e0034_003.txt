@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:54.457619
+#+DATE: 2015-09-28 22:55:57.766534
 #+TITLE: 十住經
 #+PROPERTY: CBETA_ID T10n0286
 #+PROPERTY: ID KR6e0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 286
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0034_T_003-0514a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《十住經》卷第三¶
+《十住經》卷第三¶
 ¶
 後秦三藏鳩摩羅什譯¶
 
-6現前地
-:PROPERTIES:
-:head: 現前地第六
-:END:
-¶
+現前地第六¶
 
 #+BEGIN_VERSE
 「　諸菩薩聞說，
@@ -470,11 +465,7 @@
 #+END_VERSE
 」¶
 
-7遠行地
-:PROPERTIES:
-:head: 遠行地第七
-:END:
-¶
+遠行地第七¶
 
 #+BEGIN_VERSE
 「　爾時諸天眾，
@@ -609,8 +600,7 @@
 菩薩言：「佛子！菩薩摩訶薩但於七地中具足¶
 助菩提法？一切諸地中亦具足？」
 
-金剛藏菩¶
-薩言：「佛子！菩薩摩訶薩於十地中悉具足¶
+金剛藏菩薩言：「佛子！菩薩摩訶薩於十地中悉具足¶
 助菩提法，但第七地勝故得名。何以故？諸菩¶
 薩摩訶薩於七地中功行具足，入智慧神¶
 通道故。
@@ -941,11 +931,7 @@
 #+END_VERSE
 」¶
 
-8不動地
-:PROPERTIES:
-:head: 不動地第八
-:END:
-¶
+不動地第八¶
 
 #+BEGIN_VERSE
 「　他化自在王，
@@ -1120,7 +1106,7 @@
 「知微塵細相、知微塵差別相，
 <pb:KR6e0034_T_003-0521c>¶
 於一世界中所有微塵差別皆悉能知，此一¶
-世界所有地若干微塵皆悉能知；若干水、¶
+世界所有地若干微塵皆悉能知；若于水、¶
 火、風微塵皆悉能知。
 
 「知若干寶物斤兩微¶
